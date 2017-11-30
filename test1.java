@@ -4,6 +4,9 @@ public class test1
 	private void sysoutMFF(){
 		System.out.println(nice);
 		System.out.println(nice+"2");
+		
+		System.out.println(nice+"2");
+		
 	}
 
 	test1(){
